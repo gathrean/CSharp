@@ -1,0 +1,21 @@
+# Ignore build and output directories
+bin/
+obj/
+
+# Rider specific settings
+.idea/
+
+# Visual Studio Code specific settings
+.vscode/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.log
+
+# Others
+*.DS_Store
